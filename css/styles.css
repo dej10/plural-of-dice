@@ -1,0 +1,74 @@
+body{
+	background-color: #d6e0f0;
+}
+
+.p1{
+	display: inline;
+	padding-left: 20%;
+
+}
+
+.p2{
+	display: inline;
+	padding-left: 35%;
+}
+
+.heading{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 7rem;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+.dice-player1, .dice-player2{
+	text-align: center;
+	padding: 3% 15% 5%;
+}
+
+btn{
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bolder;
+}
+
+
+@media (max-width: 1000px){
+	.dice-player1, .dice-player2{
+	padding: 3% 5% 5%;
+	text-align: center;
+	width: 60%;
+}
+
+	.heading{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 4rem;
+	text-align: center;
+
+	}
+
+	.container-fluid{
+		text-align: center;
+	}
+
+	.p1{
+	display: inline;
+	padding-left: 20%;
+
+}
+
+.p2{
+	display: inline;
+	padding-left: 35%;
+}
+
+
+
+
+
+	
+}
+
+
+
+
+
